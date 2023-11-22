@@ -1,3 +1,8 @@
+[![Build status](https://build.appcenter.ms/v0.1/apps/e2f24eee-8774-40f0-8b1c-1f7cb9479856/branches/main/badge)](https://appcenter.ms)
+
+Public page:
+install.appcenter.ms/orgs/wahyudi_/apps/shopping-list/distribution_groups/public
+
 # shopping_list
 
 A new Flutter project.
